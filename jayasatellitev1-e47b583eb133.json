@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jayasatellitev1",
+  "private_key_id": "e47b583eb1335ee54732bd644cacf40c3f5bfad9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3+r9mRMSWcnTw\n5PqsIpMXLoeYP1mZvUCcQD6/61fAjEFMErz1VKamRQ19t+2WYOop1gPRrb+kZ0jw\nfRwjKHhkItAm0ZJc1jhUrREyMVZFkqo9ONknYWbODZzE9//x/eywb1edO1gI3IkU\nAtTXlT6jn/kVMDF/+U4/EC1aYRe3uDUWXRer15efau2/9GMRWKaLKZuexw8IYJdH\nd7GCO1ogrScHz2luZ2JbB1mAmuxviMoKbn8Ey07biGh1tTnVrikOXzIfmbXLqaQi\n6N6B2L3mxaxK7FRAP6/MbQeGPUkbKWwzMDvVpaAiVTKcoPNX8CVms0aYoNbfc6af\nA1TEwuA1AgMBAAECggEAKSH4P1jiG+HIl+AV1DzhpmXqfmUxduAbTSPG87kd9ChX\nY/bvhKkRnixjlQc1aPDPgZ192pfuOAc4hT3vd8PRUNAAuiESSEvDqdjMtqxVpbXh\n9lCaqkWKSsi700TAFh4nmBW4oKhXKRoHUrBEXlOZftMiCPTuqDY4onxPK3z4JMR7\nHNcRL/9AC3X/T6CAaXXF3bK2IsDyW9uifAm4ha4E3pRaH1/TQ8TGd9k3d3zutVrS\nXBfmoloejxpUflH2La3bDeP3JUyKzWVEUVfuPFCF4UebwYnl2VuQXejdZ2vV09eB\ntRDYBRRrZj1MKSNqb79O+CsBU2NKhYGMalr4vFeuSQKBgQDaUREDocEfQdv7N53u\nAyOiab5PRjQpDt9dF/YL4Ca63QPmDxNG+N4pi8P3JxT7hHBcWUUpUZE0NRof9KUJ\nx4FcfiRrQNIhQvys+VYWM5naMjEmKaGhrgAPmdq0CNf0dnTbgZgNyit8RuzUM7t5\nLGZb2Ngq6xAdLGmi+P7SspmgHQKBgQDXvGWFX3o+/k5jleUJ9Xodjoh1AfXwbjUO\nxilW6oElmAl1UlknpqTaie6lK8wPdm6OUmu+wwnvpflemVCUa1DuTkPIao3wceim\nRm/KIau4xsXWVfUlFc/mIOmQ0J9fKIPPPKItMuPXB/hhlP1Df4rXL9UQIYyfAZGj\nzOKrC510+QKBgQDEWcriqFWoRjSSojfxfHNNPKvEYtDA6LZt5QIPNj+/Ks652G8v\nEt/FIAZVQJo3iKsB8+wnOExPVz8y5HaW8A9h37XjnL4g2j2lWO9bMne6bhAUUbck\nUfmODoNMDvQj03JQhiL6rA0mTifsxsZjOlKpYsMw/o9UncA4qpeNasKO5QKBgGHS\nrqIUkiUAQWFMtceXROEkIWIVGoUEJBDn8BTWTutSDm/hgEXHfZcO1mSVAHm+dREZ\n9HtSiy3cr7+ie3RhWRhF6tx03Jm7vQewhr48GFa34zt2TKudQWETaXVd8/Y9M8+D\nqfIe0ktN9OWinli9+6HpsY4X+GCdYIHKxLlUkfhZAoGAEqbQh1HZB7mu8JZxjm7Z\n6nEkV/5WkRUhfnj2NIPaGGVAP7MuH3pD7gfONobP11b8HAmXzA7ZkMh/1wmw9JkJ\nyWcXiEYDOkDLtRvyKIVQOWDOMqLZnljEgWEmuQvybzxGtBfcOr7eDjjfXfZHCbPm\nfG1pjlxHV3Uqrk1drGBh9vI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jayasatellitev1service@jayasatellitev1.iam.gserviceaccount.com",
+  "client_id": "112038723580443848166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jayasatellitev1service%40jayasatellitev1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
