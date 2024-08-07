@@ -1,0 +1,8 @@
+statsmodel
+matplotlib
+pandas
+plotly
+seaborn
+openpyxl
+requests
+zipfile
