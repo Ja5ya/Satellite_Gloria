@@ -6,3 +6,4 @@ seaborn
 openpyxl
 requests
 zipfile
+scikit-learn
